@@ -1,0 +1,5 @@
+package com.microservice.practice.controller;
+
+public class HelloController {
+
+}

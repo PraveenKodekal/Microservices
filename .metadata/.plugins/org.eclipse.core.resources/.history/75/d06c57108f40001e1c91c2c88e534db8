@@ -1,0 +1,5 @@
+package com.microservice.greet.controller;
+
+public class GreetController {
+
+}
